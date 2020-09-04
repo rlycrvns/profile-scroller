@@ -1,0 +1,42 @@
+const data = [
+  {
+    name: 'John Doe',
+    age: 32,
+    gender: 'male presenting',
+    lookingfor: 'female presenting',
+    location: 'Portland, OR',
+    image: 'https://randomuser.me/api/portraits/men/82.jpg',
+  },
+  {
+    name: 'Jane Doe',
+    age: 26,
+    gender: 'female presenting',
+    lookingfor: 'male presenting',
+    location: 'Beaverton, OR',
+    image: 'https://randomuser.me/api/portraits/women/82.jpg',
+  },
+  {
+    name: 'Mike Smith',
+    age: 38,
+    gender: 'male presenting',
+    lookingfor: 'male presenting',
+    location: 'Gresham, OR',
+    image: 'https://randomuser.me/api/portraits/men/15.jpg',
+  },
+  {
+    name: 'Dugan Nash',
+    age: 43,
+    gender: 'non binary',
+    lookingfor: 'any',
+    location: 'Hillsboro, OR',
+    image: 'https://randomuser.me/api/portraits/10.jpg',
+  },
+  {
+    name: 'Janet Smunt',
+    age: 50,
+    gender: 'female presenting',
+    lookingfor: 'female presenting',
+    location: 'Tigard, OR',
+    image: 'https://randomuser.me/api/portraits/women/50.jpg',
+  },
+];
